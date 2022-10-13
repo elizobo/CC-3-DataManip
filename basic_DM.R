@@ -1,4 +1,7 @@
-# Coding Cblub
+# Basic data manipulation
+# Coding Club tutorial
+# Elizabeth Stroud s1828407@ed.ac.uk
+# 13.10.22
 
 # Part 1 Subset, extract and modify----
 # Set your working directory to where the folder is saved on your computer
